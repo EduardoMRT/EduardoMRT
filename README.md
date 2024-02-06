@@ -1,10 +1,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A40000&background=FFA8D700&center=true&random=false&width=800&lines=Ol%C3%A1%2C+me+chamo+Eduardo%2C+tenho+18+anos+e+sou+desenvolvedor" alt="Typing SVG" /></a>
+
 ### PHP, JAVA, Web JavaEE, Hibernate, JSF, PrimeFaces 
 
 - 🔭 Atualmente trabalho com JavaEE, hibernate, JSF, MAVEN, SpringBoot, RestFull, Java OOP.
 - 🌱 Atualmente estou me especializando em SpringFramework.
 - 👯 Meu foco tem sido em Java e SpringFramework, Jakarta, PHP.
 - ↗️ Meu perfil no LinkDIn - linkedin.com/in/eduardo-miguel-dos-reis-teixeira-812088249
+
 
 <div align="center">
   <a href="https://github.com/EduardoMRT">
