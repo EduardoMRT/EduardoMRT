@@ -1,42 +1,93 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A40000&background=FFA8D700&center=true&random=false&width=800&lines=Ol%C3%A1%2C+me+chamo+Eduardo%2C+tenho+18+anos+e+sou+desenvolvedor" alt="Typing SVG" /></a>
+<h1 align="center">Olá! 👋 Eu sou o Eduardo Teixeira</h1>
 
-### PHP, JAVA, Web JavaEE, Hibernate, JSF, PrimeFaces 
+<p align="center">
+  💻 Desenvolvedor Java | 🎓 Estudante UNESP | 📦 Entusiasta de Pesquisa Operacional e Microeconomia Matemática
+</p>
 
-- 🔭 Atualmente trabalho com JavaEE, hibernate, JSF, MAVEN, SpringBoot, RestFull, Java OOP.
-- 🌱 Atualmente estou me especializando em SpringFramework.
-- 👯 Meu foco tem sido em Java e SpringFramework, Jakarta, PHP.
-- ↗️ Meu perfil no LinkDIn - linkedin.com/in/eduardo-miguel-dos-reis-teixeira-812088249
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduardomrteixeira/">
+    <img src="https://img.shields.io/badge/LinkedIn-eduardomrteixeira-blue?style=flat&logo=linkedin" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=EduardoMRT&label=Visualizações&color=0e75b6&style=flat" alt="EduardoMRT" />
+</p>
 
+---
 
-<div align="center">
-  <a href="https://github.com/EduardoMRT">
-  <img  src="https://github-readme-stats.vercel.app/api?username=EduardoMRT&show_icons=true&theme=dark&locale=pt-BR&card_width=700px"/>
-  <br>
+## 👨‍💻 Sobre mim
 
- </a>
-</div>
-  <br/>
-  
-## Tecnologias, linguagens e frameworks
-<div>       
-  <a target="_blank"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>    
-  <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>    
-  <a target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank"></a>   
-  <a target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>   
-  <a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>   
-  <a target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>   
-  <a target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" target="_blank"></a>   
-  <a target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>     
-</div><br/>
+Sou desenvolvedor Java na **Gemmap Sistemas**, atuando em sistemas críticos de emissão fiscal e integração entre municípios. Trabalho com tecnologias como **Spring Boot**, **Kafka**, **CI/CD**, e **Kubernetes**, com foco na modernização de sistemas legados e na construção de soluções escaláveis.
 
-  ## Minhas redes sociais
-<div> 
-  <a href="https://www.instagram.com/edu.mdrt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-miguel-dos-reis-teixeira-812088249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>-->
-</div>                                                                               
+Estudo **Sistemas de Informação na UNESP Bauru** e desenvolvo projetos pessoais e acadêmicos em:
 
-## Linguagens:
-<div align="center">
- <img height="180em" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMRT&locale=pt-BR&theme=dark"/>
-</div>
+- 📦 **Problemas de empacotamento (2D irregular, NFP)**
+- 📊 **Microeconomia computacional e matemática**
+- ⚙️ **Sistemas distribuídos com Apache Kafka**
+- 🧠 **Aplicações matemáticas em computação**
+
+---
+
+## 🛠️ Tecnologias
+
+### 🚀 Backend
+![Java](https://img.shields.io/badge/Java_21-F80000?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-black?style=flat&logo=apachekafka)
+
+### ☁️ DevOps e Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-GKE-326CE5?style=flat&logo=kubernetes)
+![CI/CD](https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=flat&logo=githubactions)
+
+### 📊 Dados, Algoritmos e Pesquisa
+![Python](https://img.shields.io/badge/Python-Scientific-3776AB?style=flat&logo=python)
+![C++](https://img.shields.io/badge/C++-CGAL/SFML-00599C?style=flat&logo=cplusplus)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+
+---
+
+## 🎓 Formação
+
+- 🎓 **Sistemas de Informação – UNESP Bauru** *(2023–2027)*
+- 🧑‍🏫 Monitor de Algoritmos I – 1º semestre de 2025
+- 📘 **Técnico em Desenvolvimento de Sistemas – ETEC**
+- 📗 **Técnico em Informática para Internet – ETEC**
+- 📊 **Especialização Técnica em Gestão de Projetos – ETEC (cursando)**
+- 🧠 Certificações por Google, Cisco e IBM (Dados, Segurança, Analytics)
+- 🌱 Participação na **FETEPS 2024** com projeto de **Hidroponia Automatizada**
+
+---
+
+## 🧪 Projetos em destaque/recentes
+
+| Projeto | Tecnologias | Descrição |
+|--------|-------------|-----------|
+| 🔄 **Emissor RPS** | Spring Boot | Sistema para emissão de notas fiscais |
+| 📦 **NFP Visualizer** | C++ (CGAL + SFML) | Visualizador de polígonos de não-intersecção para empacotamento irregular |
+| 📐 **MathLab UNESP** | Python, NumPy, GeoGebra | Scripts e visualizações sobre álgebra linear, vetores e geometria computacional |
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoMRT&show_icons=true&theme=dark&locale=pt-BR&card_width=700px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoMRT&theme=dark&locale=pt-br" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMRT&layout=compact&theme=dark&langs_count=8"/>
+</p>
+
+---
+
+## ✨ Citação favorita
+
+<p align="center"><em>
+"Conheça todas as teorias, domine todas as técnicas, mas ao tocar uma alma humana, seja apenas outra alma humana."<br>
+— Carl Gustav Jung
+</em></p>
+
+---
