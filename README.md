@@ -47,7 +47,7 @@ Estudo **Sistemas de Informação na UNESP Bauru** e desenvolvo projetos pessoai
 
 ## 🎓 Formação
 
-- 🎓 **Sistemas de Informação – UNESP Bauru** *(2023–2027)*
+- 🎓 **Sistemas de Informação – UNESP Bauru** *(2024–2028)*
 - 🧑‍🏫 Monitor de Algoritmos I – 1º semestre de 2025
 - 📘 **Técnico em Desenvolvimento de Sistemas – ETEC**
 - 📗 **Técnico em Informática para Internet – ETEC**
