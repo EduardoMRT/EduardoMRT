@@ -90,4 +90,7 @@ Estudo **Sistemas de Informação na UNESP Bauru** e desenvolvo projetos pessoai
 — Carl Gustav Jung
 </em></p>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/EduardoMRT/EduardoMRT/output/snake.svg" alt="Snake animation" />
+</div>
+
