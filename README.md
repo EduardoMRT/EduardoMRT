@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou o Eduardo Teixeira</h1>
 
 <p align="center">
-  💻 Desenvolvedor Java | 🎓 Estudante UNESP | 📦 Entusiasta de Pesquisa Operacional e Microeconomia Matemática
+  💻 Desenvolvedor Java | 🎓 Estudante UNESP | 📦 Entusiasta de Pesquisa Operacional
 </p>
 
 <p align="center">
@@ -20,7 +20,6 @@ Sou desenvolvedor Java na **Gemmap Sistemas**, atuando em sistemas críticos de 
 Estudo **Sistemas de Informação na UNESP Bauru** e desenvolvo projetos pessoais e acadêmicos em:
 
 - 📦 **Problemas de empacotamento (2D irregular, NFP)**
-- 📊 **Microeconomia computacional e matemática**
 - ⚙️ **Sistemas distribuídos com Apache Kafka**
 - 🧠 **Aplicações matemáticas em computação**
 
